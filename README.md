@@ -1,4 +1,4 @@
 # myportfolio40
-<B>myport <br>
+myport <br>
 history <br>
 aboutme
